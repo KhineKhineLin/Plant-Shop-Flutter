@@ -1,4 +1,4 @@
-# plant
+# Plant Shop Flutter
 
 A new Flutter project.
 
